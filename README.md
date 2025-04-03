@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Deploying ML models using Streamlit, FastAPI, and Docker**
 
-- ✅ I have completed work on **Named Entity Recognition (NER) using CRF Real-time Face Mask Detection Disease Prediction Website**
+- ✅ I have completed work on **Named Entity Recognition (NER) using CRF, Real-time Face Mask Detection, Disease Prediction Website**
 
 - 👨‍💻 All of my projects are available at [myportfolio.link](myportfolio.link)
 
