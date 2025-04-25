@@ -15,7 +15,7 @@
 
 - ✅ I have completed work on **Named Entity Recognition (NER) using CRF, Real-time Face Mask Detection, Disease Prediction Website**
 
-- 👨‍💻 All of my projects are available at [myportfolio.link](myportfolio.link)
+- 👨‍💻 All of my projects are available at [myportfolio.link](https://lazycoderforu.github.io/portfolio_website/)
 
 - 📝 I regularly write articles on [Blog: (Coming soon!)](Blog: (Coming soon!))
 
