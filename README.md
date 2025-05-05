@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, AI, Data Science, Python, Cloud Computing, DevOps, SQL, C++, PL/SQL**
 
-- 📫 How to reach me **brajeshgupta350194@gmail.com**
+- 📫 How to reach me **brajeshguptaa1@gmail.com**
 
 - 📄 Know about my experiences [resume_link]([resume_link](https://drive.google.com/file/d/1Ky-IUpfzoqbqnC45na8kPMbviNm0b1YH/view))
 
