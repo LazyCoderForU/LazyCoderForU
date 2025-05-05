@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **brajeshgupta350194@gmail.com**
 
-- 📄 Know about my experiences [resume_link](resume_link)
+- 📄 Know about my experiences [resume_link]([resume_link](https://drive.google.com/file/d/1Ky-IUpfzoqbqnC45na8kPMbviNm0b1YH/view))
 
 - ⚡ Fun fact **I think I am funny 😆**
 
