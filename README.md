@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **brajeshguptaa1@gmail.com**
 
-- 📄 Know about my experiences [resume_link]([resume_link](https://drive.google.com/file/d/1Ky-IUpfzoqbqnC45na8kPMbviNm0b1YH/view))
+- 📄 Know about my experiences [resume_link]([resume_link][(https://drive.google.com/file/d/1Ky-IUpfzoqbqnC45na8kPMbviNm0b1YH/view)](https://preview-969f2f6c--tech-savvy-profile-builder.lovable.app/))
 
 - ⚡ Fun fact **I think I am funny 😆**
 
