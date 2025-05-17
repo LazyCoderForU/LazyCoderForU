@@ -1,33 +1,120 @@
-<div align="center">🚀 Brajesh Kumar: Architect of AI & Data Innovation</div>
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2965F1&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Data+Scientist;Applied+AI+Specialist;10%2B+Years+Engineering+Excellence" alt="Typing SVG" /> </div> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Banner.gif" width="100%" alt="Welcome Banner" /> </div>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif" width="42px"> About Me
-<div align="left"> <img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Brain.gif" width="200" /> <p>Seasoned software engineer with a decade of expertise in AI, ML, and Data Science. I architect scalable solutions that transform raw data into actionable intelligence.</p>
-🔭 Currently engineering AI/ML systems with cloud-native architectures
+<!-- Animated Header with Floating Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2965F1&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer;3+Years+of+Accelerated+Growth;Machine+Learning+Specialist;Cloud-Native+Developer" alt="Animated Header" />
+</div>
 
-🧠 Deep expertise in Machine Learning, Deep Learning, NLP, Computer Vision
+<!-- Floating Avatar -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Brain.gif" width="200" style="animation: float 6s ease-in-out infinite" />
+</div>
 
-🛠️ Building with Python, TensorFlow, PyTorch, FastAPI, Docker, Kubernetes
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/line.gif" width="100%" />
+</div>
 
-🏆 Delivered ML systems that process millions of data points daily
+## 🚀 Core Competencies
 
-🌱 Currently advancing skills in MLOps, Vector Databases, LLMOps
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Jarvis.gif" width="200" align="right" />
+  
+  <p style="animation: slideIn 1s ease-out">
+    **Machine Learning** | **Deep Learning** | **Cloud Architecture**<br>
+    **Natural Language Processing** | **DevOps Automation** | **Full-Stack Development**
+  </p>
+</div>
 
-📘 Author of technical papers on ML optimization and enterprise AI implementation
+<!-- Animated Connect Badges -->
+<div align="center" style="animation: fadeIn 2s">
+  <a href="https://linkedin.com/in/brajesh-gupta">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brajeshguptaa1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://calendly.com/brajesh-kumar">
+    <img src="https://img.shields.io/badge/Schedule-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" />
+  </a>
+</div>
 
-</div> <div align="center"> <a href="https://myportfolio.link"> <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://linkedin.com/in/brajesh-gupta"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:brajeshguptaa1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.leetcode.com/brajesh350149"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/> </a> </div>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Designer.gif" width="42px"> Engineering Excellence
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lazycoderforu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazycoderforu&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"> </div>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Rocket.gif" width="30px"> Featured Projects
-<table> <tr> <td width="50%"> <h3 align="center">Named Entity Recognition (NER) using CRF</h3> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Neural%20Network.gif" width="200" /> <p>Advanced NER system with state-of-the-art accuracy for extracting structured information from unstructured text.</p> <p><strong>Technologies:</strong> Python, CRF, BERT, SpaCy</p> </div> </td> <td width="50%"> <h3 align="center">Real-time Face Mask Detection</h3> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Robot.gif" width="200" /> <p>Computer vision system for real-time face mask compliance monitoring with 98% accuracy.</p> <p><strong>Technologies:</strong> TensorFlow, OpenCV, MobileNetV2</p> </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">Disease Prediction Platform</h3> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Jarvis.gif" width="200" /> <p>ML-powered disease prediction system with diagnostic accuracy comparable to medical professionals.</p> <p><strong>Technologies:</strong> Python, Scikit-learn, FastAPI, React</p> </div> </td> <td width="50%"> <h3 align="center">ML Model Deployment Framework</h3> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Futuristic%20Interface.gif" width="200" /> <p>Enterprise-grade framework for seamless ML model deployment with monitoring and versioning.</p> <p><strong>Technologies:</strong> Docker, Kubernetes, FastAPI, Streamlit, MLflow</p> </div> </td> </tr> </table>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/LineBar.gif" width="42px"> Tech Arsenal
-<div align="center"> <h3>Languages & Frameworks</h3> <img src="https://skillicons.dev/icons?i=py,cpp,java,js,tensorflow,pytorch,react,nodejs&theme=dark" /> <h3>Tools & Technologies</h3> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,git,bash,mysql,postgres,mongodb,redis&theme=dark" /> <h3>Data Science & ML</h3> <p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/> </p> </div>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Handshake.gif" width="42px"> Professional Journey
-<div align="center"> <table> <tr> <td><strong>2021 - Present</strong></td> <td>Senior Machine Learning Engineer at Fortune 500 Tech Company</td> </tr> <tr> <td><strong>2018 - 2021</strong></td> <td>Data Scientist at AI-First Startup</td> </tr> <tr> <td><strong>2015 - 2018</strong></td> <td>Software Engineer specializing in Data Systems</td> </tr> <tr> <td><strong>2012 - 2015</strong></td> <td>Full Stack Developer with focus on Analytics</td> </tr> </table> </div>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Rocket.gif" width="42px"> GitHub Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazycoderforu&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph"> <!-- Snake animation --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake.svg"> </picture>
+## 🌟 Tech Stack with Hover Effects
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,docker,kubernetes,aws,gcp,react,nodejs,postgres,mongodb,redis,linux,git" 
+       style="transition: transform 0.3s ease" 
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+</div>
 
+## 📈 Dynamic Stats with Animations
 
-<img src="https://github-profile-trophy.vercel.app/?username=lazycoderforu&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="Trophy" /> </div>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Messaging.gif" width="42px"> Let's Connect
-<div align="center"> <p>Ready to collaborate on innovative AI/ML projects or discuss how data science can transform your business? Reach out through any of the channels below.</p> <a href="https://linkedin.com/in/brajesh-gupta"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:brajeshguptaa1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://calendly.com/brajesh-kumar"> <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting"/> </a> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=lazycoderforu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </div> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Work%20in%20Progress.gif" width="65"> <h3>Crafting intelligent systems that learn, adapt, and evolve</h3> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lazycoderforu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+       width="48%" 
+       style="animation: statsSlide 1s ease-out" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazycoderforu&theme=radical" 
+       width="48%" 
+       style="animation: statsSlide 1s 0.2s ease-out backwards" />
+</div>
+
+## 🛠️ Featured Projects with Parallax Scrolling
+
+<div align="center">
+  <div style="perspective: 1000px">
+    <div style="transform-style: preserve-3d; transition: transform 0.5s">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Neural%20Network.gif" 
+           width="400" 
+           onmouseover="this.parentElement.style.transform='rotateY(20deg)'"
+           onmouseout="this.parentElement.style.transform='rotateY(0deg)'" />
+    </div>
+  </div>
+  
+  <h3 style="animation: textGlow 2s infinite alternate">Intelligent NER System</h3>
+  <p>Advanced Named Entity Recognition engine combining Transformer architectures</p>
+</div>
+
+## 🌌 GitHub Activity Universe
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazycoderforu&theme=react-dark&hide_border=true&area=true" 
+       width="100%" 
+       style="animation: graphAppear 2s ease-out" />
+</div>
+
+## 🐍 Contribution Snake with Animated Theme
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Heatmap" 
+         src="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake.svg" 
+         width="100%"
+         style="animation: snakeWave 5s infinite linear" />
+  </picture>
+</div>
+
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0px); }
+  }
+
+  @keyframes statsSlide {
+    from { opacity: 0; transform: translateX(-50px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+
+  @keyframes textGlow {
+    from { text-shadow: 0 0 10px #2965F1; }
+    to { text-shadow: 0 0 20px #2965F1; }
+  }
+
+  @keyframes snakeWave {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.02); }
+    100% { transform: scale(1); }
+  }
+</style>
