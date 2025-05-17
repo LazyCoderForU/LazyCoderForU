@@ -13,11 +13,14 @@
 
 I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, and Applied Data Scientist from India.
 
-- 🔭 Building AI/ML-based applications and cloud deployments
-- 🚀 Currently learning Streamlit, FastAPI, and Docker
-- 🤝 Open to collaborating on ML model deployment with Streamlit, FastAPI, Docker
-- 🏆 Projects: Named Entity Recognition (CRF), Real-time Face Mask Detection, Disease Prediction Website
-- 💬 Ask me about: Python, C, C++, Java, SQL, PL/SQL, Cloud, ML, DevOps
+- 🔭 Building AI/ML-based applications and cloud deployments  
+- 🚀 Currently learning Streamlit, FastAPI, and Docker  
+- 🤝 Open to collaborating on ML model deployment with Streamlit, FastAPI, Docker  
+- 🏆 Projects: Named Entity Recognition (CRF), Real-time Face Mask Detection, Disease Prediction Website  
+- 💬 Ask me about: Python, C, C++, Java, SQL, PL/SQL, Cloud, ML, DevOps  
+- 📫 Email: [brajeshguptaa1@gmail.com](mailto:brajeshguptaa1@gmail.com)  
+- 🌐 Portfolio: [View Portfolio](https://preview-969f2f6c--tech-savvy-profile-builder.lovable.app/)  
+- 📄 [My Resume](https://drive.google.com/file/d/1Ky-IUpfzoqbqnC45na8kPMbviNm0b1YH/view)  
 - ⚡ Fun fact: I think I am funny 😆
 
 ---
@@ -82,6 +85,12 @@ I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, 
   </a>
   <a href="mailto:brajeshguptaa1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://preview-969f2f6c--tech-savvy-profile-builder.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1Ky-IUpfzoqbqnC45na8kPMbviNm0b1YH/view">
+    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
