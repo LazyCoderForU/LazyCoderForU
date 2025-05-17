@@ -71,7 +71,7 @@ I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/brajesh-gupta">
+  <a href="https://www.linkedin.com/in/brajesh-kumar-5204b8253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/stackoverflow_user_name">
