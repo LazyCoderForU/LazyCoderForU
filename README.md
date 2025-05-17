@@ -1,141 +1,33 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://your-custom-banner-url.com/banner.png" alt="Brajesh Kumar Banner" />
-</p>
+<div align="center">🚀 Brajesh Kumar: Architect of AI & Data Innovation</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2965F1&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Data+Scientist;Applied+AI+Specialist;10%2B+Years+Engineering+Excellence" alt="Typing SVG" /> </div> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Banner.gif" width="100%" alt="Welcome Banner" /> </div>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif" width="42px"> About Me
+<div align="left"> <img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Brain.gif" width="200" /> <p>Seasoned software engineer with a decade of expertise in AI, ML, and Data Science. I architect scalable solutions that transform raw data into actionable intelligence.</p>
+🔭 Currently engineering AI/ML systems with cloud-native architectures
 
-<h1 align="center">Hi 👋, I'm Brajesh Kumar</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | DevOps Enthusiast</h3>
+🧠 Deep expertise in Machine Learning, Deep Learning, NLP, Computer Vision
 
-<p align="center">
-  <a href="https://github.com/LazyCoderForU">
-    <img src="https://komarev.com/ghpvc/?username=LazyCoderForU&label=Profile%20views&color=0e75b6&style=flat" alt="LazyCoderForU" />
-  </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+🛠️ Building with Python, TensorFlow, PyTorch, FastAPI, Docker, Kubernetes
 
----
+🏆 Delivered ML systems that process millions of data points daily
 
-### 🧑‍💻 About Me
+🌱 Currently advancing skills in MLOps, Vector Databases, LLMOps
 
-- 🔭 I’m currently working on **AI/ML-based applications and Cloud-based deployments**.
-- 🌱 I’m exploring **Streamlit, FastAPI, Docker, and DevOps workflows**.
-- 🤝 I’m open to collaborating on **ML model deployment using Streamlit, FastAPI, and Docker**.
-- ✅ Projects I've completed:
-  - 🚀 Named Entity Recognition (NER) using CRF
-  - 😷 Real-time Face Mask Detection
-  - 🩺 Disease Prediction Web App
-- 📂 Check out my projects: [My Portfolio](https://preview-969f2f6c--tech-savvy-profile-builder.lovable.app/)
-- 📫 Reach me at: **brajeshguptaa1@gmail.com**
-- 📝 Articles and blogs: _Coming soon!_
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1Ky-IUpfzoqbqnC45na8kPMbviNm0b1YH/view)
-- 💬 Ask me about: **ML, Deep Learning, Python, Data Science, SQL, DevOps, C++, Cloud, PL/SQL**
-- ⚡ Fun fact: _I think I’m funny 😆_
+📘 Author of technical papers on ML optimization and enterprise AI implementation
 
----
+</div> <div align="center"> <a href="https://myportfolio.link"> <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://linkedin.com/in/brajesh-gupta"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:brajeshguptaa1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.leetcode.com/brajesh350149"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/> </a> </div>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Designer.gif" width="42px"> Engineering Excellence
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lazycoderforu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazycoderforu&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"> </div>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Rocket.gif" width="30px"> Featured Projects
+<table> <tr> <td width="50%"> <h3 align="center">Named Entity Recognition (NER) using CRF</h3> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Neural%20Network.gif" width="200" /> <p>Advanced NER system with state-of-the-art accuracy for extracting structured information from unstructured text.</p> <p><strong>Technologies:</strong> Python, CRF, BERT, SpaCy</p> </div> </td> <td width="50%"> <h3 align="center">Real-time Face Mask Detection</h3> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Robot.gif" width="200" /> <p>Computer vision system for real-time face mask compliance monitoring with 98% accuracy.</p> <p><strong>Technologies:</strong> TensorFlow, OpenCV, MobileNetV2</p> </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">Disease Prediction Platform</h3> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Jarvis.gif" width="200" /> <p>ML-powered disease prediction system with diagnostic accuracy comparable to medical professionals.</p> <p><strong>Technologies:</strong> Python, Scikit-learn, FastAPI, React</p> </div> </td> <td width="50%"> <h3 align="center">ML Model Deployment Framework</h3> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI%20Futuristic%20Interface.gif" width="200" /> <p>Enterprise-grade framework for seamless ML model deployment with monitoring and versioning.</p> <p><strong>Technologies:</strong> Docker, Kubernetes, FastAPI, Streamlit, MLflow</p> </div> </td> </tr> </table>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/LineBar.gif" width="42px"> Tech Arsenal
+<div align="center"> <h3>Languages & Frameworks</h3> <img src="https://skillicons.dev/icons?i=py,cpp,java,js,tensorflow,pytorch,react,nodejs&theme=dark" /> <h3>Tools & Technologies</h3> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,git,bash,mysql,postgres,mongodb,redis&theme=dark" /> <h3>Data Science & ML</h3> <p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/> </p> </div>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Handshake.gif" width="42px"> Professional Journey
+<div align="center"> <table> <tr> <td><strong>2021 - Present</strong></td> <td>Senior Machine Learning Engineer at Fortune 500 Tech Company</td> </tr> <tr> <td><strong>2018 - 2021</strong></td> <td>Data Scientist at AI-First Startup</td> </tr> <tr> <td><strong>2015 - 2018</strong></td> <td>Software Engineer specializing in Data Systems</td> </tr> <tr> <td><strong>2012 - 2015</strong></td> <td>Full Stack Developer with focus on Analytics</td> </tr> </table> </div>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Rocket.gif" width="42px"> GitHub Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazycoderforu&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph"> <!-- Snake animation --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake.svg"> </picture>
 
-### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/brajesh-gupta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Brajesh%20Gupta-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/your_stackoverflow_id" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Your%20Name-orange?logo=stackoverflow&style=for-the-badge" alt="Stack Overflow" />
-  </a>
-  <a href="https://www.hackerrank.com/brajesh350149" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Brajesh%20Gupta-2EC866?logo=hackerrank&style=for-the-badge" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/brajesh350149" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Brajesh%20Gupta-FFA116?logo=leetcode&style=for-the-badge" alt="LeetCode" />
-  </a>
-</p>
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LazyCoderForU&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LazyCoderForU&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyCoderForU&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LazyCoderForU&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📈 WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/brajesh-gupta)
-- [Twitter](https://twitter.com/your_twitter_handle)
-- [Email](mailto:brajeshguptaa1@gmail.com)
-
----
-
-### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Coming Soon!]
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 😂 Random Dev Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
+<img src="https://github-profile-trophy.vercel.app/?username=lazycoderforu&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="Trophy" /> </div>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Messaging.gif" width="42px"> Let's Connect
+<div align="center"> <p>Ready to collaborate on innovative AI/ML projects or discuss how data science can transform your business? Reach out through any of the channels below.</p> <a href="https://linkedin.com/in/brajesh-gupta"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:brajeshguptaa1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://calendly.com/brajesh-kumar"> <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting"/> </a> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=lazycoderforu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </div> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Work%20in%20Progress.gif" width="65"> <h3>Crafting intelligent systems that learn, adapt, and evolve</h3> </div>
