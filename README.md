@@ -11,122 +11,22 @@
 
 ## 👨‍💻 About Me
 
-I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, and Applied Data Scientist from India.  
-- 🔭 I build AI/ML-based applications and cloud deployments.  
-- 🚀 Currently learning Streamlit, FastAPI, and Docker.  
-- 🤝 Open to collaborating on deploying ML models using Streamlit, FastAPI, and Docker.  
-- 🏆 Projects: Named Entity Recognition (CRF), Real-time Face Mask Detection, Disease Prediction Website.  
-- 💬 Ask me about: Python, C, C++, Java, SQL, PL/SQL, Cloud, ML, DevOps.  
+I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, and Applied Data Scientist from India.
+
+- 🔭 Building AI/ML-based applications and cloud deployments
+- 🚀 Currently learning Streamlit, FastAPI, and Docker
+- 🤝 Open to collaborating on ML model deployment with Streamlit, FastAPI, Docker
+- 🏆 Projects: Named Entity Recognition (CRF), Real-time Face Mask Detection, Disease Prediction Website
+- 💬 Ask me about: Python, C, C++, Java, SQL, PL/SQL, Cloud, ML, DevOps
 - ⚡ Fun fact: I think I am funny 😆
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🚀 My Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/jenkins-icon.svg" width="65" height="65" alt="Jenkins" />
-      <br>Jenkins
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/gcp-icon.svg" width="65" height="65" alt="GCP" />
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="65" height="65" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="65" height="65" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="65" height="65" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="65" height="65" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/opencv-icon.svg" width="65" height="65" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/pandas-icon.svg" width="65" height="65" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sklearn-icon.svg" width="65" height="65" alt="Scikit-learn" />
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/seaborn-icon.svg" width="65" height="65" alt="Seaborn" />
-      <br>Seaborn
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/matlab-icon.svg" width="65" height="65" alt="MATLAB" />
-      <br>MATLAB
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/figma-icon.svg" width="65" height="65" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,flask,django,fastapi,docker,kubernetes,jenkins,aws,gcp,postgres,mongodb,redis,tensorflow,pytorch,git,linux,vscode,opencv,pandas,sklearn,seaborn,matlab,figma" />
+</p>
 
 ---
 
@@ -149,6 +49,18 @@ I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, 
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazycoderforu&theme=react-dark&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazycoderforu/lazycoderforu/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
