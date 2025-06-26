@@ -20,7 +20,6 @@ I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, 
 - 💬 Ask me about: Python, SQL, PL/SQL, ML, DevOps, c++  
 - 📫 Email: [brajeshguptaa1@gmail.com](mailto:brajeshguptaa1@gmail.com)  
 - 🌐 Portfolio: [View Portfolio](https://preview-969f2f6c--tech-savvy-profile-builder.lovable.app/)  
-- 📄 [My Resume](https://drive.google.com/file/d/1Ky-IUpfzoqbqnC45na8kPMbviNm0b1YH/view)  
 - ⚡ Fun fact: I think I am funny 😆
 
 ---
