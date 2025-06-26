@@ -15,9 +15,9 @@ I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, 
 
 - 🔭 Building AI/ML-based applications and cloud deployments  
 - 🚀 Currently learning Streamlit, FastAPI, and Docker  
-- 🤝 Open to collaborating on ML model deployment with Streamlit, FastAPI, Docker  
+- 🤝 Open to collaborating on ML model deployment with Streamlit, Docker  
 - 🏆 Projects: Named Entity Recognition (CRF), Real-time Face Mask Detection, Disease Prediction Website  
-- 💬 Ask me about: Python, C, C++, Java, SQL, PL/SQL, Cloud, ML, DevOps  
+- 💬 Ask me about: Python, SQL, PL/SQL, ML, DevOps, c++  
 - 📫 Email: [brajeshguptaa1@gmail.com](mailto:brajeshguptaa1@gmail.com)  
 - 🌐 Portfolio: [View Portfolio](https://preview-969f2f6c--tech-savvy-profile-builder.lovable.app/)  
 - 📄 [My Resume](https://drive.google.com/file/d/1Ky-IUpfzoqbqnC45na8kPMbviNm0b1YH/view)  
