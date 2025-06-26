@@ -28,7 +28,7 @@ I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, 
 ## 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,flask,django,fastapi,docker,kubernetes,jenkins,aws,gcp,postgres,mongodb,redis,tensorflow,pytorch,git,linux,vscode,opencv,pandas,sklearn,seaborn,matlab,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,docker,jenkins,tensorflow,pytorch,git,linux,vscode,opencv,pandas,sklearn,seaborn,matlab" />
 </p>
 
 ---
