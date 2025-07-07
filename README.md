@@ -19,7 +19,7 @@ I am **Brajesh Kumar**, a passionate Machine Learning Engineer, Data Scientist, 
 - 🏆 Projects: Named Entity Recognition (CRF), Real-time Face Mask Detection, Disease Prediction Website  
 - 💬 Ask me about: Python, SQL, PL/SQL, ML, DevOps, c++  
 - 📫 Email: [brajeshguptaa1@gmail.com](mailto:brajeshguptaa1@gmail.com)  
-- 🌐 Portfolio: [View Portfolio](https://preview-969f2f6c--tech-savvy-profile-builder.lovable.app/)  
+- 🌐 Portfolio: [View Portfolio]([https://preview-969f2f6c--tech-savvy-profile-builder.lovable.app/](https://brajeshportfolio.lovable.app/))  
 - ⚡ Fun fact: I think I am funny 😆
 
 ---
